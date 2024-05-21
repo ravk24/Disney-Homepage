@@ -54,7 +54,7 @@ const ProductionHouse = () => {
             playsInline
             muted
             className="absolute z-0  top-0 rounded-md 
-            opacity-0 hover:opacity-50"
+            opacity-0 hover:opacity-50 h-full"
           />
           <img
             src={item.image}
