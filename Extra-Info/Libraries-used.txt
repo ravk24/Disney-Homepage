@@ -1,0 +1,2 @@
+vite-as a build tool
+Tailwind - CSS and mobile responsive(or across all devices)

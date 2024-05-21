@@ -1,0 +1,22 @@
+npm create vite@latest
+cd filename
+npm install
+
+To install Tailwind----
+1)npm install -D tailwindcss postcss autoprefixer
+
+//Why Use -D: By using the -D flag, you tell npm to install TailwindCSS as a dev dependency. This means:
+
+The package will be placed in the node_modules folder under a subdirectory named devDependencies.
+The package will not be included in your production build. This is because TailwindCSS is used to generate CSS classes during development, and the generated CSS is what your application actually needs.
+
+2)npx tailwindcss init -p
+3) copy tailwind.config.js and index.css from "https://tailwindcss.com/docs/guides/vite"
+
+----------
+npm i react-icons //react icons
+
+------------
+npm i axios ->best http client for fatching data via api
+
+npm install tailwindcss-no-scrollbar -->to hide horizontal scrollbar
